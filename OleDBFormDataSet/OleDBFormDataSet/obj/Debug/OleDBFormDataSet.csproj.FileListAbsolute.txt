@@ -1,0 +1,11 @@
+C:\ASP\OleDBFormDataSet\OleDBFormDataSet\OleDBFormDataSet\bin\Debug\OleDBFormDataSet.exe.config
+C:\ASP\OleDBFormDataSet\OleDBFormDataSet\OleDBFormDataSet\bin\Debug\OleDBFormDataSet.exe
+C:\ASP\OleDBFormDataSet\OleDBFormDataSet\OleDBFormDataSet\bin\Debug\OleDBFormDataSet.pdb
+C:\ASP\OleDBFormDataSet\OleDBFormDataSet\OleDBFormDataSet\obj\Debug\OleDBFormDataSet.csproj.AssemblyReference.cache
+C:\ASP\OleDBFormDataSet\OleDBFormDataSet\OleDBFormDataSet\obj\Debug\OleDBFormDataSet.csproj.SuggestedBindingRedirects.cache
+C:\ASP\OleDBFormDataSet\OleDBFormDataSet\OleDBFormDataSet\obj\Debug\OleDBFormDataSet.Form1.resources
+C:\ASP\OleDBFormDataSet\OleDBFormDataSet\OleDBFormDataSet\obj\Debug\OleDBFormDataSet.Properties.Resources.resources
+C:\ASP\OleDBFormDataSet\OleDBFormDataSet\OleDBFormDataSet\obj\Debug\OleDBFormDataSet.csproj.GenerateResource.cache
+C:\ASP\OleDBFormDataSet\OleDBFormDataSet\OleDBFormDataSet\obj\Debug\OleDBFormDataSet.csproj.CoreCompileInputs.cache
+C:\ASP\OleDBFormDataSet\OleDBFormDataSet\OleDBFormDataSet\obj\Debug\OleDBFormDataSet.exe
+C:\ASP\OleDBFormDataSet\OleDBFormDataSet\OleDBFormDataSet\obj\Debug\OleDBFormDataSet.pdb
